@@ -1,0 +1,15 @@
+ul{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+ul a.btn-action span{
+  font-size: 30px;
+  background: #ccc;
+  border-radius: 100%;
+  padding: 3px;
+}
+ul .commentAuthor{
+  margin: 0px;
+  margin-bottom: 10px;
+}
