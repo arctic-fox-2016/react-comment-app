@@ -1,1 +1,2 @@
-# react-comment-app
+# Comment App
+Learn How to use React

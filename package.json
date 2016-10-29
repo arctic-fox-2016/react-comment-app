@@ -1,0 +1,19 @@
+{
+  "name": "simple-react",
+  "version": "1.0.0",
+  "description": "Comments App using React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test created\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "jsx"
+  ],
+  "author": "rubi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
